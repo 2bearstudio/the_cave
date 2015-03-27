@@ -5,19 +5,19 @@ A fun game
 
 1.
 2.
-3.
+3. Burgundy
 4.
 
 ## Mia
 
 1.
-2.
+2. Gold
 3.
 4.
 
 ## Leah
 
 1.
-2.
+2. Orange
 3.
 4.
